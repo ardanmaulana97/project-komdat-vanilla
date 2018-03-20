@@ -1,4 +1,4 @@
-<h5 align="center"><img src="img src="https://camo.githubusercontent.com/316411cdc29cf834af3ba95fdfddd619ef42d58c/687474703a2f2f696d616765732e762d63646e2e6e65742f76616e696c6c612d626c61636b2d6c6f676f2d3430302e737667"></h5>
+<h5 align="center"><img src="https://camo.githubusercontent.com/316411cdc29cf834af3ba95fdfddd619ef42d58c/687474703a2f2f696d616765732e762d63646e2e6e65742f76616e696c6c612d626c61636b2d6c6f676f2d3430302e737667"></h5>
 
 [Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Otomatisasi](#otomatisasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:
@@ -123,7 +123,17 @@ $ https://localhost:8888
 
 # Pembahasan
 [`^ kembali ke atas ^`](#)
--Bird hanya bisa dilakukan ketika browser mengakses game, sehingga jika browser di restart. semua progress akan hilang.
+
+Pendapat kami tentang aplikasi **Vanilla Forum** ini
+
+Kelebihan
+- Mass-appeal forum.
+- Tema fleksibel
+- Impossibly good integration options with single sign-ons and embedding.
+- The best tools available for community management.
+- Curated features with great plugin options, not the kitchen sink.
+
+Kelemahan :
 
 # Referensi
 [`^ kembali ke atas ^`](#)
